@@ -1,9 +1,9 @@
 {
   "title": "ILM - knowledge sharing",
   "siteUrl": "https://musical-fox-7eca72.netlify.app",
-  "description": "Experience teaches quite a few things, experience when documented can act as knowledge for others. Documenting the experiences in the technological landscape. As a bunch of technology enthusiasts we help ourselves and others in their quest of technology.",
+  "description": "Experience teaches quite a few things, experience when documented can act as knowledge for others. Documenting the experiences in the technological landscape. As a bunch of Senior Technology Plumbers we help ourselves and others in their quest of technology unclogging things and ensuring running things.\n \nWe are excited to hear from folks, Drop a note and we would get back !!",
   "home": {
     "title": "ILM",
-    "description": "Aim of this blog is to document experiences and solutions which would aid others in the journey. You would find information on Data Engineering | Data Architecture | Azure/AWS Cloud | Front End Javascript Frameworks React/Angular | Back End Engineering | Docker | Kubernetes."
+    "description": "Experience teaches quite a few things, experience when documented can act as knowledge for others. Documenting the experiences in the technological landscape. As a bunch of Senior Technology Plumbers we help ourselves and others in their quest of technology unclogging things and ensuring things are running.\n\nAim of this blog is to document experiences and solutions which would aid others in the journey. You would find information on Data Engineering | Data Architecture | Azure/AWS Cloud | Front End Javascript Frameworks React/Angular | Back End Engineering | Docker | Kubernetes."
   }
 }
