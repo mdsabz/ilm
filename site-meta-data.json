@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "ILM - knowledge sharing",
+  "siteUrl": "https://musical-fox-7eca72.netlify.app",
+  "description": "Experience teaches quite a few things, experience when documented can act as knowledge for others. Documenting the experiences in the technological landscape. As a bunch of technology enthusiasts we help ourselves and others in their quest of technology.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "ILM",
+    "description": "Aim of this blog is to document experiences and solutions which would aid others in the journey. You would find information on Data Engineering | Data Architecture | Azure/AWS Cloud | Front End Javascript Frameworks React/Angular | Back End Engineering | Docker | Kubernetes."
   }
 }
